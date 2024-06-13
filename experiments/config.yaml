@@ -1,0 +1,3 @@
+model: scGPT
+epochs: 10
+checkpoint_path: train/checkpoints/checkpoint.pt
